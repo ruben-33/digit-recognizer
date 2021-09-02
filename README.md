@@ -1,4 +1,4 @@
-# digit-recognizer
+# Digit-recognizer
 Digit recognizer using keras dataset.
 # Introduction
  - import the necessary dependencies:
