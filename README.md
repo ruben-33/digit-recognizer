@@ -14,4 +14,4 @@ Digit recognizer using keras dataset.
  - create a convolutional neural network model using tensorflow and keras.
  - fit the model for both train and test data.
 # Finally
- - using CNN modelling, the accuarcy obtained is around 99%.
+ - using CNN modelling, the accuarcy obtained is around 100%.
